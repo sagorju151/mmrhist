@@ -1,0 +1,9 @@
+Package: mmrhist
+Type: Package
+Title: Histogram
+Version: 1.0
+Date: 2015-06-06
+Author: Md. Mahabubur Rahman <mmriu.stat>
+Maintainer: Md. Mahabubur Rahman <mmriu.stat>
+Description: Supply numerical vector xh, that returns its histogram
+License: GLM-2
