@@ -1,5 +1,5 @@
-\name{meanC}
-\alias{meanC}
+\name{Histogram}
+\alias{Histogram}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
 Calculate Histogram
